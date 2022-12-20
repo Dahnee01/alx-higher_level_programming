@@ -2,7 +2,4 @@
 
 
 def raise_exception():
-    """
-    raise a type exception
-    """
-    raise TypeError("Error Occured")
+    raise TypeError
